@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+}
+
+.nav a {
+  display: flex;
+  margin: 20px;
+}
+
+.fotos img {
+  width: 200px;
+  height: auto;
+}
